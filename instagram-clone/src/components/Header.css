@@ -8,7 +8,7 @@ i.Nav{
     -webkit-transition: height 0.2s ease-in-out;
     transition: height 0.2s ease-in-out;
     height: 77px;
-    border: 1px orange solid;
+    border: 1px orange blueviolet;
 
 
 }
@@ -19,7 +19,7 @@ i.Nav{
     width: 70%;
     margin: 0 auto;
     padding: 26px 40px;
-    border: 1px pink solid;
+    border: 1px solid lime;
   }
   .Nav-brand-logo {
     display: block;

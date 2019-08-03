@@ -8,7 +8,7 @@ class Post extends React.Component {
             <header>
                 <div className="Post-user">
                     <div className="Post-user-avatar">
-                        <img src="https://unsplash.com/photos/K3q1KVUeGQY" alt="desert"/>
+                        <img src="https://live.staticflickr.com/65535/48440955291_fcb442269f_b.jpg" alt="stars"/>
                     </div>
                 </div>
             </header>
